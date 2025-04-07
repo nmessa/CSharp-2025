@@ -1,0 +1,4 @@
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 4.20.2022\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 4.20.2022\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 4.20.2022\FileDemo\FileDemo\obj\x86\Debug\FileDemo.exe
+C:\Users\nmessa\Desktop\My C#\Lab Exercise 4.20.2022\FileDemo\FileDemo\obj\x86\Debug\FileDemo.pdb
