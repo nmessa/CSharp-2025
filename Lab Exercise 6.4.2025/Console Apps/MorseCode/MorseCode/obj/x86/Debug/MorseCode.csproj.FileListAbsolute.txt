@@ -1,0 +1,6 @@
+H:\SST\2022 - 2023 Courses\C#\Last Years Server Code\Lab Exercise 6.6.2022\Console Apps\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+H:\SST\2022 - 2023 Courses\C#\Last Years Server Code\Lab Exercise 6.6.2022\Console Apps\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+H:\SST\2022 - 2023 Courses\C#\Last Years Server Code\Lab Exercise 6.6.2022\Console Apps\MorseCode\MorseCode\obj\x86\Debug\MorseCode.exe
+H:\SST\2022 - 2023 Courses\C#\Last Years Server Code\Lab Exercise 6.6.2022\Console Apps\MorseCode\MorseCode\obj\x86\Debug\MorseCode.pdb
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\MorseCode\MorseCode\obj\x86\Debug\MorseCode.exe
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\MorseCode\MorseCode\obj\x86\Debug\MorseCode.pdb

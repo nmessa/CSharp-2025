@@ -1,0 +1,4 @@
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\SpinCycle\SpinCycle\bin\Debug\SpinCycle.exe
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\SpinCycle\SpinCycle\bin\Debug\SpinCycle.pdb
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\SpinCycle\SpinCycle\obj\x86\Debug\SpinCycle.exe
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\SpinCycle\SpinCycle\obj\x86\Debug\SpinCycle.pdb

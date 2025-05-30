@@ -1,0 +1,4 @@
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\Security\Security\bin\Debug\Security.exe
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\Security\Security\bin\Debug\Security.pdb
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\Security\Security\obj\x86\Debug\Security.exe
+H:\SST\2022 - 2023 Courses\C#\C# for Server\Lab Exercise 6.8.2023\Console Apps\Security\Security\obj\x86\Debug\Security.pdb
